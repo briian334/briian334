@@ -33,7 +33,7 @@ I'm also improving my English skills to better collaborate in international envi
 
 ## 📫 Contact
 
-- ✉️ Email: [ricardo.cervanntes@hotmail.com](ricardo.cervanntes@hotmail.com)
+- ✉️ Email: [ricardo.cervanntes@hotmail.com](mailto:ricardo.cervanntes@hotmail.com)
 - 💼 LinkedIn: [linkedin.com/in/brian-cervantes-541b151a4](https://www.linkedin.com/in/brian-cervantes-541b151a4)
 
 ## 📊 GitHub Stats
